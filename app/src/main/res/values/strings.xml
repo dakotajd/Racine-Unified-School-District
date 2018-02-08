@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RUSD</string>
+    <string name="rusd_name">Racine Unified\nSchool District</string>
+    <string name="rusd_is_name">Information Systems</string>
+    <string name="rusd_is_info">WC • Print Shop • Student Data • Warehouse</string>
+
+    <!-- Filter Strings -->
+    <string name="filter">FILTER</string>
+    <string name="filter_dialog_text">Choose your topics</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorum_ipsum">Lorem ipsum dolor sit amet, mei cu dicant accusata euripidis, tritani eloquentiam ea mei.</string>
+
+    <!-- Login -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!-- SettingsActivity -->
+    <string name="subscriptions">Subscriptions</string>
+    <string name="notifications">Notifications</string>
+    <string name="subscriptions_help">Manage your subscription preferences for notification topics.</string>
+    <string name="show_notifications">Show Notifications</string>
+    <string name="notification_sound">Notification Sound</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="yes_silent">Yes (except on silent)</string>
+    <string name="yes_vibrate">Yes (only when on vibrate)</string>
+    <string name="no">No</string>
+    <string name="Always">Always</string>
+    <string name="unsubscribe">Unsubscribe from these alerts</string>
+    <string name="building_only">Show alerts from my building only</string>
+    <string name="district_wide">Show all district alerts</string>
+</resources>

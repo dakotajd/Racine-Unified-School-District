@@ -1,0 +1,58 @@
+[
+  {
+    "name": "default",
+    "image": "rusd_logo.png",
+    "URL": "http://www.rusd.org",
+    "tags": [
+      {
+        "name": "Default"
+      }
+    ]
+  },
+  {
+    "name": "Report to our community 2011",
+    "image": "report_to_community_2011.png",
+    "URL": "http://www.rusd.org/sites/default/files/uploads/Newsletters/2011%20Community%20Report.pdf",
+    "tags": [
+      {
+        "name": "Newsletters"
+      },
+      {
+        "name": "Support"
+      }
+    ]
+  },
+  {
+    "name": "default 2",
+    "image": "rusd_logo.png",
+    "URL": "http://www.rusd.org",
+    "tags": [
+      {
+        "name": "Default"
+      }
+    ]
+  },
+  {
+    "name": "Report to our community 2011 2",
+    "image": "report_to_community_2011.png",
+    "URL": "http://www.rusd.org/sites/default/files/uploads/Newsletters/2011%20Community%20Report.pdf",
+    "tags": [
+      {
+        "name": "Newsletters"
+      },
+      {
+        "name": "Support"
+      }
+    ]
+  },
+  {
+    "name": "default 3",
+    "image": "rusd_logo.png",
+    "URL": "http://www.rusd.org",
+    "tags": [
+      {
+        "name": "Default"
+      }
+    ]
+  }
+]

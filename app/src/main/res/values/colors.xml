@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A61D3D</color>
+    <color name="colorPrimaryDark">#A61D3D</color>
+    <color name="colorAccent">#40C4FF</color>
+
+    <color name="primary_text">#000000</color>
+    <color name="header_background">#d95070</color>
+    <color name="recyclerview_background">#D3D3D3</color>
+</resources>
